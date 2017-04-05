@@ -302,6 +302,9 @@ header .header-content .header-content-inner #stiker {
 .service-box p {
   margin-bottom: 0;
 }
+.almost-full {
+  max-width: 95%;
+}
 .portfolio-box {
   position: relative;
   display: block;
