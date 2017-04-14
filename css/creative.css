@@ -269,10 +269,14 @@ header .header-content .header-content-inner #stiker {
 #undangan .salam {
   letter-spacing: 2px;
 }
+#wishlist .daftar .checked {
+  text-decoration: line-through;
+  color: rgba(255, 255, 255, 0.7);
+}
 #footer {
   background-color: #222222;
   color: white;
-  background-color: #0b2f44;
+  background-color: #333333;
   color: #777777;
 }
 #footer a {
