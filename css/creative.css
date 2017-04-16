@@ -274,9 +274,8 @@ header .header-content .header-content-inner #stiker {
   color: rgba(255, 255, 255, 0.7);
 }
 #footer {
-  background-color: #222222;
   color: white;
-  background-color: #333333;
+  background-color: #222222;
   color: #777777;
 }
 #footer a {
