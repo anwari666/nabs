@@ -273,6 +273,32 @@ header .header-content .header-content-inner #stiker {
   text-decoration: line-through;
   color: rgba(255, 255, 255, 0.7);
 }
+#solo a {
+  color: #555555;
+}
+#solo a:hover {
+  text-decoration: none;
+}
+#solo a:hover h3 {
+  text-decoration: underline;
+}
+#solo h3 {
+  font-size: 1.4em;
+}
+#solo .artikels .artikel {
+  border-top: 1px solid #bbbbbb;
+  padding: 30px 20px;
+}
+#solo .artikels .thumbnail {
+  margin: 20px 0 0 20px;
+  width: 150px;
+  border: 1px solid
+            display: inline;
+  float: right;
+  padding: 1px;
+  background-color: #9b9b9b;
+  box-shadow: none;
+}
 #footer {
   color: white;
   background-color: #222222;
